@@ -1,0 +1,136 @@
+{
+  "systemInfo": {
+    "operatingSystem": "win32",
+    "windsurfVersion": "1.9.4",
+    "ideName": "windsurf",
+    "userName": "John Maike",
+    "userEmail": "johnpatrocinio1@gmail.com",
+    "teamsTier": 2,
+    "timestamp": "2025-06-07T13:58:09.093Z",
+    "installationId": "72b064c9-6bb6-4467-8224-113e00af17ef"
+  },
+  "userSettings": {
+    "openMostRecentChatConversation": false,
+    "lastSelectedModel": "MODEL_UNSPECIFIED",
+    "themePreference": "THEME_PREFERENCE_UNSPECIFIED",
+    "extensionPanelTab": "EXTENSION_PANEL_TAB_UNSPECIFIED",
+    "fontSize": "FONT_SIZE_UNSPECIFIED",
+    "autocompleteSpeed": "AUTOCOMPLETE_SPEED_UNSPECIFIED",
+    "rememberLastModelSelection": "REMEMBER_LAST_MODEL_SELECTION_UNSPECIFIED",
+    "lastSelectedModelName": "",
+    "lastSelectedCascadeModel": "MODEL_CLAUDE_3_5_SONNET_20241022",
+    "cascadeNuxStates": [
+      {
+        "event": "CASCADE_NUX_EVENT_MODEL_SELECTOR_NUX"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_WEB_SEARCH"
+      }
+    ],
+    "cascadePlannerMode": "CONVERSATIONAL_PLANNER_MODE_DEFAULT",
+    "cascadeAllowedCommands": [],
+    "cascadeDeniedCommands": [],
+    "userNuxStates": [],
+    "cascadeWebSearchDisabled": false,
+    "disableAutocomplete": false,
+    "disableSupercomplete": false,
+    "disableSelectionPopup": false,
+    "disableExplainProblemInlayHint": false,
+    "disableInlayHintShortcuts": false,
+    "disableOpenCascadeOnReload": false,
+    "disableAutoOpenEditedFiles": false,
+    "disableTabToJump": false,
+    "cascadeAutoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_OFF",
+    "explainAndFixInCurrentConversation": false,
+    "allowCascadeAccessGitignoreFiles": false,
+    "disableCascadeAutoFixLints": false,
+    "disableCascadeBrowserPreviews": false,
+    "detectProxy": false,
+    "disableTabToImport": false,
+    "useClipboardForCompletions": false,
+    "disableHighlightAfterAccept": false,
+    "lastSelectedNewConvoTab": "",
+    "disableAutoGenerateMemories": false,
+    "enableSoundsForSpecialEvents": false,
+    "enableTabSounds": false,
+    "allowCascadeInBackground": false,
+    "tabToJump": "TAB_TO_JUMP_UNSPECIFIED",
+    "cascadeWebSearch": "CASCADE_WEB_SEARCH_TOOL_UNSPECIFIED",
+    "enableTerminalCompletion": false,
+    "lastModelOverride": "MODEL_GOOGLE_GEMINI_2_5_PRO",
+    "featureUsageData": {
+      "CASCADE_BROWSER": {
+        "hasUsed": true
+      },
+      "CASCADE_CLICK_MODEL_SELECTOR": {
+        "hasUsed": true
+      }
+    },
+    "disableCascadeInBackground": false
+  },
+  "extensionLogs": [
+    "2025-06-07 10:51:16.611 [info] 2025/06/07 10:51:16 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined",
+    "2025-06-07 10:51:17.787 [info] I0607 10:51:17.787044 14600 main.go:585] Setting GOMAXPROCS to 4",
+    "2025-06-07 10:51:17.789 [info] I0607 10:51:17.788042 14600 main.go:800] Starting language server process with pid 14600",
+    "2025-06-07 10:51:17.789 [info] I0607 10:51:17.788042 14600 server.go:269] Language server will attempt to listen on host 127.0.0.1",
+    "2025-06-07 10:51:17.790 [info] I0607 10:51:17.790547 14600 server.go:276] Language server listening on random port at 51583",
+    "2025-06-07 10:51:18.363 [info] I0607 10:51:18.362349 14600 server.go:387] Created extension server client at port 51581",
+    "2025-06-07 10:51:36.284 [info] I0607 10:51:36.282712 14600 server.go:946] Local search is enabled, will index local files.",
+    "2025-06-07 10:51:36.285 [info] I0607 10:51:36.284219 14600 server.go:950] Using 2 indexer workers",
+    "2025-06-07 10:51:36.377 [info] (Windsurf) 2025-06-07 10:51:36.370 [INFO]: Language server started",
+    "2025-06-07 10:51:37.665 [info] (Windsurf) 2025-06-07 10:51:37.663 [INFO]: LS lspClient started successfully",
+    "2025-06-07 10:56:58.389 [info] (Windsurf) 2025-06-07 10:56:58.380 [INFO]: [Cascade Manager] Opening diff zones for: "
+  ],
+  "languageServerDiagnostics": {
+    "logs": [
+      "I0607 10:51:17.787044 14600 main.go:585] Setting GOMAXPROCS to 4\n",
+      "I0607 10:51:17.788042 14600 main.go:800] Starting language server process with pid 14600\n",
+      "I0607 10:51:17.788042 14600 server.go:269] Language server will attempt to listen on host 127.0.0.1\n",
+      "I0607 10:51:17.790547 14600 server.go:276] Language server listening on random port at 51583\n",
+      "I0607 10:51:18.362349 14600 server.go:387] Created extension server client at port 51581\n",
+      "I0607 10:51:36.282712 14600 server.go:946] Local search is enabled, will index local files.\n",
+      "I0607 10:51:36.284219 14600 server.go:950] Using 2 indexer workers\n"
+    ]
+  },
+  "recentTrajectories": [
+    {
+      "cascadeId": "f942db48-81a7-49a2-8445-b5b281bfae3f",
+      "trajectoryId": "af9c546e-a090-45d7-90ce-e3773dfc13d1",
+      "summary": "Fixing and Enhancing Category Dropdown Menu",
+      "lastStepIndex": 9288,
+      "lastModifiedTime": "2025-06-07T01:16:47.522Z"
+    },
+    {
+      "cascadeId": "45f22376-54e0-466a-9a6d-34f13e2c8685",
+      "trajectoryId": "bb515a38-9507-41ad-be91-28d7d148c794",
+      "summary": "Implementing Google Ads Tag",
+      "lastStepIndex": 1913,
+      "lastModifiedTime": "2025-06-06T15:25:44.692Z"
+    },
+    {
+      "cascadeId": "5efc2feb-7367-4a79-ab23-2e5f7c8e3ff5",
+      "trajectoryId": "c6fad715-0e0d-457a-a2bc-e85d22fc3cfc",
+      "summary": "Configuring User Authentication System",
+      "lastStepIndex": 1338,
+      "lastModifiedTime": "2025-05-28T13:37:39.707Z"
+    }
+  ],
+  "fields": {
+    "cascadeId": "f942db48-81a7-49a2-8445-b5b281bfae3f",
+    "currentLatestStepIndex": 9288,
+    "trajectoryId": "af9c546e-a090-45d7-90ce-e3773dfc13d1",
+    "consoleLogs": [
+      "[ERROR] 2025-6-7 10:51:53.340 Failed to get active app deployment: ConnectError: [invalid_argument] failed to get active app deployment for project b82729f5-2f9d-4e56-874b-5f7d632aa78b: api server wire error: app has been deprovisioned",
+      "[ERROR] 2025-6-7 10:51:53.346 Failed to get active app deployment: ConnectError: [invalid_argument] failed to get active app deployment for project b82729f5-2f9d-4e56-874b-5f7d632aa78b: api server wire error: app has been deprovisioned",
+      "[LOG] 2025-6-7 10:51:56.178 Sentry initialized",
+      "[LOG] 2025-6-7 10:53:17.387 Deleting conversation fa22755c-6951-47f9-a99f-158734b94880",
+      "[LOG] 2025-6-7 10:53:25.219 Deleting conversation 831ec2a3-1a44-47fe-9ec3-e18935d8fedf",
+      "[LOG] 2025-6-7 10:53:29.788 Deleting conversation 852cb4f2-5b1a-451c-80dc-354cdab126dd",
+      "[LOG] 2025-6-7 10:53:32.908 Deleting conversation 79d2bd29-4903-4194-9fc6-aee93ecb0e74",
+      "[LOG] 2025-6-7 10:53:39.891 Deleting conversation 917f4e8e-5d99-481c-9a3f-c328222fe3fe",
+      "[LOG] 2025-6-7 10:53:47.956 Deleting conversation 4603b9f6-3337-44cf-ab5f-8e81975ee1ac",
+      "[LOG] 2025-6-7 10:53:55.331 Deleting conversation 7884519e-9c8e-4d69-8899-a294a3855075",
+      "[ERROR] 2025-6-7 10:56:58.159 Failed to get active app deployment: ConnectError: [invalid_argument] failed to get active app deployment for project b82729f5-2f9d-4e56-874b-5f7d632aa78b: api server wire error: app has been deprovisioned"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+2025/06/11-10:49:06.246 4d34 Reusing MANIFEST C:\Users\Fujitsu\Desktop\cupons\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/11-10:49:06.336 4d34 Recovering log #12
+2025/06/11-10:49:06.337 4d34 Reusing old log C:\Users\Fujitsu\Desktop\cupons\.wwebjs_auth\session\Default\Local Storage\leveldb/000012.log 
+2025/06/11-11:03:07.215 5d60 Level-0 table #15: started
+2025/06/11-11:03:07.228 5d60 Level-0 table #15: 14946 bytes OK
+2025/06/11-11:03:07.237 5d60 Delete type=0 #12
